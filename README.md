@@ -2,8 +2,7 @@ Happy Birthday
 
 A Happy Birthday animation design in CSS3, HTML5.
 
-URL: http://iqbalwakwaw.github.io/selamatultah.github.io/
-
+URL: http://iqbalwakwaw.github.io
 Technology Used: HTML5 CSS3 jQuery  GNU/Linux Digital Ocean as VPS GIMP
 
 # Setup
